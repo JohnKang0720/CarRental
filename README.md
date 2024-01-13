@@ -1,9 +1,10 @@
 <h1> Rental Car EDA & Picking the right Regression model </h1>
 
-<h2> Overview </h2>
+<h2> Summary </h2>
+- Webscrape new/updated data from a website using BeautifulSoup.
+- Use of Pandas and Seaborn to analyze and visualize car rental data. 
+- Use of many regression models, GridSearch and SelectKBest functions to find the best model and parameters.
 
-               Metrics            RF
-0        Overall Score      0.999992
-1                   R2      0.999991
-2   Mean Squared Error  14864.028415
-3  Mean Absolute Error      4.119320
+<h2> Viewing </h2>
+- Clone this repository
+- run ```jupyter lab``` on your local environment.
